@@ -19,17 +19,19 @@
 
 # 📜 Certifications:
 
-### 🤖 AI & Computer Vision
-[![AI Certificate](https://img.shields.io/badge/AI_Specialization-Click_to_View-blue?style=flat-square&logo=google-cloud&logoColor=white)](PASTE_LINK_HERE)
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-Click_to_View-orange?style=flat-square&logo=opencv&logoColor=white)](PASTE_LINK_HERE)
+### 🤖 AI And Computer Vision
+[![AI Masters](https://img.shields.io/badge/Master_AI-%2305122A?style=for-the-badge&logo=applied-ml&logoColor=white)](YOUR_LINK_HERE)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](YOUR_LINK_HERE)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](YOUR_LINK_HERE)
 
-### 🎮 Unity & Game Development
-[![Unity Expert](https://img.shields.io/badge/Unity_Game_Dev-Click_to_View-black?style=flat-square&logo=unity&logoColor=white)](https://www.udemy.com/certificate/UC-d403ad48-72e8-4143-914e-1a7d47951d45/)
-[![Game Physics](https://img.shields.io/badge/Game_Physics_RCC-Click_to_View-green?style=flat-square&logo=unity&logoColor=white)](PASTE_LINK_HERE)
+### 🎮 Unity And Game Development
+[![Unity Certification](https://img.shields.io/badge/Unity_Expert-%23000000?style=for-the-badge&logo=unity&logoColor=white)](YOUR_LINK_HERE)
+[![Game Development](https://img.shields.io/badge/Game_Dev-%23239120?style=for-the-badge&logo=unity&logoColor=white)](YOUR_LINK_HERE)
+[![RCC Kit](https://img.shields.io/badge/RCC_Vehicle_Physics-%23E44D26?style=for-the-badge&logo=unreal-engine&logoColor=white)](YOUR_LINK_HERE)
 
 ### 🎓 General Certifications
-[![Computer Engineering](https://img.shields.io/badge/Engineering_Cert-Click_to_View-red?style=flat-square&logo=engineering&logoColor=white)](PASTE_LINK_HERE)
-[![Professional Dev](https://img.shields.io/badge/General_Certification-Click_to_View-lightgrey?style=flat-square)](PASTE_LINK_HERE)
+[![Computer Engineering](https://img.shields.io/badge/Computer_Engineer-%2300599C?style=for-the-badge&logo=micro-soft-academic&logoColor=white)](YOUR_LINK_HERE)
+[![Professional Dev](https://img.shields.io/badge/Professional_Dev-%23444444?style=for-the-badge&logo=expert-sex&logoColor=white)](YOUR_LINK_HERE)
 
 # 📊 GitHub Stats:
 <p align="center">
