@@ -7,6 +7,11 @@
 🤖.  Interested in **AI in Gaming**: Reinforcement Learning, Computer Vision, and Pathfinding.
 🎮.  Expertise: FPS/TPS Controllers, RCC Kit, Hyper-Casual, and Simulation Development.
 
+## 🤝 Hire Me / Freelancing:
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/msaadali605) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/saad070/) 
+[![Guru](https://img.shields.io/badge/Guru-000000?style=for-the-badge&logo=G&logoColor=white)](https://www.guru.com/freelancers/engr-muhammad-saad-ali)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085078822614) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-ali-unitydeveloper) 
 
